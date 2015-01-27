@@ -3,18 +3,18 @@ h3 Portfolio
 table.u-full-width
   thead
     tr
+      th
       th Project Name
       th Language
       th Link
   tbody
   each proj in contents['portfolio.json'].metadata
     tr
+      td
+        a(href=proj.url)
+          img(src=proj.pic,width="200")
       td=proj.name
       td=proj.language
       td
-        a(href=proj.url) Link
-
-each proj in contents['portfolio.json'].metadata
-  if proj.pic
-    center
-        img(src=proj.pic)
+        a(href=proj.url)
+          =proj.url

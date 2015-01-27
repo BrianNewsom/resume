@@ -2,15 +2,17 @@
     "name": "BitSplit",
     "language": "Javascript",
     "url" : "http://bit-split.herokuapp.com",
-    "pic" : "http://i.imgur.com/Asl6xfg.png"
+    "pic" : "http://i.imgur.com/fsrdX07.png"
 },
 {
     "name": "Cointribute",
     "language": "NodeJS",
-    "url" : "https://intense-escarpment-3682.herokuapp.com"
+    "url" : "https://intense-escarpment-3682.herokuapp.com",
+    "pic" : "http://i.imgur.com/Asl6xfg.png"
 },
 {
     "name" : "SciPy",
     "language": "Python, C",
-    "url" : "https://github.com/scipy/scipy"
+    "url" : "https://github.com/scipy/scipy",
+    "pic" : "http://www2.warwick.ac.uk/fac/sci/moac/people/students/peter_cock/python/scipy_logo.png?maxWidth=175&maxHeight=61"
 }]

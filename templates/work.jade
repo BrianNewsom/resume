@@ -1,12 +1,14 @@
-h3 Work Experiences
+h3 Work Experience
 each item in contents['work.json'].metadata
   div.row
     div.three.columns
       a.thumbnail(href='#')
-        img(src='images/' + item.image)
-    div.nine.columns
+        img(src=item.image)
+    div.six.columns
       h4
         small=item.start
         |  - 
         small=item.end
         p= item.description
+    div.three.columns
+        p= item.location

@@ -1,12 +1,13 @@
 [{
-    "description": "Land surveying in the Denver Metro area",
-    "image": "Chicago_surveyor.jpg",
-    "start": "May, 2006",
-    "end" : "June, 2011"
-},
-{
-    "description": "Programmer Analyst (C# Windows Applications)",
-    "image": "QuestIntegrity.png",
-    "start": "August, 2011",
-    "end": "present"
+    "description": "Research Assistant - Programming Specialist",
+    "location" : "University of Colorado, Boulder, CO",
+    "image" : "http://www.aldnanosolutions.com/wp-content/uploads/2011/05/CU-Boulder-Logo.png",
+    "start" : "August, 2013",
+    "end": "June, 2014"
+},{
+    "description": "Software Development Intern - Big Data Ingestion",
+    "location" : "Datalogix, Westminster, CO",
+    "image" : "http://gaia.adage.com/images/bin/image/x-large/datalogix_logo.png",
+    "start" : "May, 2014",
+    "end" : "August, 2014"
 }]
