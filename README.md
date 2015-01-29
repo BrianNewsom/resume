@@ -1,6 +1,6 @@
 # Resume
 
-Resume using Wintersmith
+Brian Newsom’s Resume using Wintersmith
 
 
 # Preview
